@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'orderstack';
+  myImage1:String = 'assets/1.jpg';
+  myImage2:String = 'assets/2.jpg';
+
 }

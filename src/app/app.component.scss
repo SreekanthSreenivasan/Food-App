@@ -1,0 +1,50 @@
+mat-toolbar{
+ background-color:lightslategray;
+}
+.spacer{
+  flex-grow: 1;
+}
+
+#logo{
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  font-size: 2.5rem;
+  flex-flow: column;
+  margin-left: 10rem;
+}
+
+sup{
+  font-size:.7rem;
+  color: red;
+  text-shadow: none;
+}
+
+img{
+  padding-top: .6rem;
+}
+#menu{
+  background-color: whitesmoke;
+  padding-top: 1rem;
+}
+button{
+
+  margin-left: 3rem;
+  color:darkgray;
+}
+
+#resicon{
+  margin-left: 2rem;
+
+}
+mat-icon{
+  color:orange;
+}
+
+#name{
+  color: white;
+  text-shadow: 0 0 3px black;
+  font-size: 1.5rem;
+  margin-right: 2rem;
+  font-family: forte;
+
+}
